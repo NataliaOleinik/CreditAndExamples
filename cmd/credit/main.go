@@ -1,4 +1,4 @@
-package main
+package credit
 
 import (
 	"fmt"
