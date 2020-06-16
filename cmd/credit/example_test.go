@@ -1,4 +1,5 @@
 package credit_test
+
 import (
 	"fmt"
 	_ "fmt"
@@ -11,4 +12,4 @@ func ExampleCalculate() {
 	// Output:
 	// 3718400 33862300 133862300
 	// 37184 338623 1338623
- }
+}
